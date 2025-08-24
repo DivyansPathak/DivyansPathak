@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DivyansPathak&label=Profile%20views&color=0e75b6&style=flat" alt="shiwangupadhyay" />
 </p>
+
 - 👋 Hi, I’m @DivyansPathak
 - 👀 I’m interested in **Adroid development with kotlin and Jetpack Compose**
 - 🌱 I’m currently learning **Jetpack Compose**
